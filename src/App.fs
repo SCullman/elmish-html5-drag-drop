@@ -117,7 +117,7 @@ module View =
                 Height "20px"
                 Margin "2px"
                 BackgroundColor "#03A9F4"
-                CSSProp.Custom ("user-select","none")
+                CSSProp.Custom ("userSelect","none")
                 BorderRadius "2px"
                 BoxShadow "0 2px 4px rgba(0,0,0,.17)"
                 ZIndex "1"
